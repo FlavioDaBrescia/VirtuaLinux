@@ -7,4 +7,6 @@ The desktop, after the login, will present one button: Add OS. That button fires
 
 Once an OS is added, it must be displayed neatly along with other OSs, as if it was a boot loader.
 
-Check the file for the graphics. I can't do this on my own, I need YOUR help. I'd rather focus on the project management to assure it will be a great success :)
+Check the file for the graphics.
+
+IMPORTANT: I can't do this on my own, I need YOUR help. I'd rather focus on the project management to assure it will be a great success :)
